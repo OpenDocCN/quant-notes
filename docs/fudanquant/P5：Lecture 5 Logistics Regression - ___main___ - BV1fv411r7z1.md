@@ -1,4 +1,4 @@
-# 复旦大学经济学院《机器学习与量化投资》（Spring 2020） - P5：Lecture 5 Logistics Regression - ___main___ - BV1fv411r7z1
+# P5：Lecture 5 Logistics Regression - ___main___ - BV1fv411r7z1
 
 大家好，我们今天来讲一个新的回归的方法，我们上次讲的是线性回归，我们看到线性回归是借助假设函数是线性的函数，当然是在高维空间的线性函数，高维空间的线性函数就对应着高维的线性空间中的超平面。
 

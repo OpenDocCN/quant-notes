@@ -1,4 +1,4 @@
-# 复旦大学经济学院《机器学习与量化投资》（Spring 2020） - P9：Lecture 9 Bagging and Boosting - ___main___ - BV1fv411r7z1
+# P9：Lecture 9 Bagging and Boosting - ___main___ - BV1fv411r7z1
 
 好我们今天呢来学习机器学习的第九讲，第九讲呢我们主要想讲一下提升和集成的这两种，在机器学习中的这两种方法，那么为了讲这两种方法呢，我们先回忆一下我们以前讲的决策树。
 

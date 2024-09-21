@@ -1,4 +1,4 @@
-# 复旦大学经济学院《机器学习与量化投资》（Spring 2020） - P3：Lecture 3 Linear Programming - ___main___ - BV1fv411r7z1
+# P3：Lecture 3 Linear Programming - ___main___ - BV1fv411r7z1
 
 好大家好，我们今天呢是机器学习的第三讲，我们今天要讲的这么两个重要的规划问题，分别叫做线性规划和二次规划，其实从现在再往后看，大家很快发现机器学习会紧紧围绕着优化问题展开嗯，抛开机器学习的理论。
 

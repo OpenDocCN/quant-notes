@@ -1,4 +1,5 @@
 +   [BigQuant 量化交易笔记](docs/bigquant/README.md)
++   [复旦机器学习与量化投资笔记](docs/fudanquant/README.md)
 +   [高盛量化交易课程笔记](docs/gaosheng/README.md)
 +   [七月在线机器学习量化交易笔记](docs/julyedu/README.md)
 +   [零基础 Python 量化交易入门笔记](docs/lingjichu/README.md)

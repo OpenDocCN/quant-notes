@@ -1,4 +1,4 @@
-# 复旦大学经济学院《机器学习与量化投资》（Spring 2020） - P7：Lecture 7 Support Vector Machine - ___main___ - BV1fv411r7z1
+# P7：Lecture 7 Support Vector Machine - ___main___ - BV1fv411r7z1
 
 好大家好，咱们今天呢来学习机器学习的另外一个模型，这个模型呢就是熟知的支持向量机，这个模型曾经呢非常的风行呃，因为呢它确实可以解决很多的问题，同时呢还因为一个特点，就是这个模型呢是起源于一个线性模型。
 

@@ -1,4 +1,4 @@
-# 复旦大学经济学院《机器学习与量化投资》（Spring 2020） - P8：Lecture 8 Bayesian Estimation - ___main___ - BV1fv411r7z1
+# P8：Lecture 8 Bayesian Estimation - ___main___ - BV1fv411r7z1
 
 好大家好，我们今天呢开始我们又一讲，就是我们机器学习的第八讲，我们今天呢给大家要讲的呢就是一个线性判别法，那么但是这个线性通常所说的这个线性判别法呢，是通过所谓贝叶斯估计。
 

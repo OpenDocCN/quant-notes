@@ -1,4 +1,4 @@
-# 复旦大学经济学院《机器学习与量化投资》（Spring 2020） - P1：Lecture 1 Overview of Machine Learning - ___main___ - BV1fv411r7z1
+# P1：Lecture 1 Overview of Machine Learning - ___main___ - BV1fv411r7z1
 
 大家好，我们从今天起呢开始学习咱们本学期的机器学习课程，这个呢是复旦大学经济学院为我们的学生呢开设的，我们这门课程呢主要内容就是现在在大家眼前所展开的，我们这个课程的综述的内容。
 

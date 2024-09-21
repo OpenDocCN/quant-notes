@@ -1,4 +1,4 @@
-# 复旦大学经济学院《机器学习与量化投资》（Spring 2020） - P14：Lecture 14 Machine Learning Theory - ___main___ - BV1fv411r7z1
+# P14：Lecture 14 Machine Learning Theory - ___main___ - BV1fv411r7z1
 
 所以我们讲了这么多的模型，但是这些机器学习，我们今天要给大家讲一个讲一些机器学习的这些习一些基础的理论，就是所谓的机器学习的学习理论，那么学习理论其实要解决的是一个理论上的问题。
 
